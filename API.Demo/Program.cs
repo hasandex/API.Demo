@@ -6,7 +6,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers(opt =>
 {
-    opt.Filters.Add<TrackActionFilter>(); //register the Action Filter globally
+    //register the Action Filter globally
+    opt.Filters.Add<TrackActionFilter>(); 
+    opt.Filters.Add<ValidateTenantFilter>();
 });
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
