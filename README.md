@@ -85,7 +85,7 @@ This project demonstrates the implementation of various filter types in an ASP.N
  }
     ```
 
-### 3. Action Filter
+### 2. Action Filter
 
 *   **Purpose:** To execute logic before and after an action executes.
 *   **Implementation:** (Provide a code snippet or explanation).
@@ -111,7 +111,7 @@ This project demonstrates the implementation of various filter types in an ASP.N
  }
     ```
 
-### 4. Exception Filter
+### 3. Exception Filter
 
 *   **Purpose:** To handle unhandled exceptions thrown during the execution of the action.
 *   **Implementation:** (Provide a code snippet or explanation).
@@ -138,7 +138,7 @@ This project demonstrates the implementation of various filter types in an ASP.N
  }
     ```
 
-### 5. Result Filter
+### 4. Result Filter
 
 *   **Purpose:** To execute logic before and after the execution of the action result.
 *   **Implementation:** (Provide a code snippet or explanation).
