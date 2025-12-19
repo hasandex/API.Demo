@@ -2,7 +2,7 @@
 
 ## Description
 
-This project demonstrates the implementation of various filter types in an ASP.NET Core Web API. It includes a single endpoint with all filter types applied to showcase how they can be used to manage cross-cutting concerns such as logging, authorization, validation, and exception handling. [[1]](https://dotnettutorials.net/lesson/filters-in-asp-net-core-web-api/)[[2]](https://codewithmukesh.com/blog/filters-in-aspnet-core/)
+This project demonstrates the implementation of various filter types in an ASP.NET Core Web API. It includes a single endpoint with all filter types applied to showcase how they can be used to manage cross-cutting concerns such as logging, authorization, validation, and exception handling.
 
 ## Features
 
@@ -173,7 +173,3 @@ This project demonstrates the implementation of various filter types in an ASP.N
 3.  Commit your changes.
 4.  Push to the branch.
 5.  Submit a pull request.
-
-## License
-
-[Specify the license under which your project is released (e.g., MIT License)](LICENSE)
