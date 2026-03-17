@@ -11,6 +11,7 @@ namespace API.Demo.Controllers
         private List<Player> players = new List<Player>(Seeding.Players());
         public HomeController()
         {
+            var x = 0;
         }
 
         [HttpGet("Players")]
